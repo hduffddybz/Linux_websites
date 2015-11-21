@@ -18,4 +18,4 @@
  - [宋宝华博客](http://blog.csdn.net/21cnbao/article/details/5372143) 宋宝华老师是国内 Linux 内核方面的专家，著有《Linux设备驱动开发详解》
  - [IBM developworks](http://www.ibm.com/developerworks/cn/views/linux/libraryview.jsp) 这个站点有许多 Linux 方面的中文资料，写的比较全面
  - [Linux C编程一站式学习](http://docs.huihoo.com/c/linux-c-programming/) Linux C 语言编程的电子书
-
+ - [鸟哥的 Linux 私房菜](http://vbird.dic.ksu.edu.tw/) 该站点是 Linux 管理员必看的站点之一
