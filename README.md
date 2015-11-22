@@ -10,6 +10,7 @@
  - [Linux Kernel Newbies](http://kernelnewbies.org/) 针对于内核新手的站点
  - [Linux Cross Reference](http://lxr.free-electrons.com/) 在线的 lxr 站点
  - [Linux Doc](https://www.kernel.org/doc/) Linux doc 的在线文档
+ - [osdev](http://wiki.osdev.org/Main_Page) 该站点描述了创建操作系统的相关信息,并且有丰富的社区
 
 2、国内站点
  - [泰晓科技](http://www.tinylab.org/) 这个站点有许多翻译项目，并且有很多最新的 Linux 资讯 
@@ -19,3 +20,8 @@
  - [IBM developworks](http://www.ibm.com/developerworks/cn/views/linux/libraryview.jsp) 这个站点有许多 Linux 方面的中文资料，写的比较全面
  - [Linux C编程一站式学习](http://docs.huihoo.com/c/linux-c-programming/) Linux C 语言编程的电子书
  - [鸟哥的 Linux 私房菜](http://vbird.dic.ksu.edu.tw/) 该站点是 Linux 管理员必看的站点之一
+ - [Linux 内核之旅](http://www.kerneltravel.net/) 该站点提供了 Linux 2.6 内核的分析和经验之谈
+
+贡献者：
+[YuanbinZhou](https://github.com/hduffddybz)
+[shui](https://github.com/shui8023)
