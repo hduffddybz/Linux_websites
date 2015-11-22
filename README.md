@@ -21,6 +21,7 @@
  - [Linux C编程一站式学习](http://docs.huihoo.com/c/linux-c-programming/) Linux C 语言编程的电子书
  - [鸟哥的 Linux 私房菜](http://vbird.dic.ksu.edu.tw/) 该站点是 Linux 管理员必看的站点之一
  - [Linux 内核之旅](http://www.kerneltravel.net/) 该站点提供了 Linux 2.6 内核的分析和经验之谈
+ - [Linux内核学习和研究及嵌入式(ARM)学习和研究的开放文档](http://lli_njupt.0fees.net/) 该站点提供了 ARM 内核方面的电子书
 
 贡献者：
 [YuanbinZhou](https://github.com/hduffddybz)
