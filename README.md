@@ -24,7 +24,7 @@
  - [鸟哥的 Linux 私房菜](http://vbird.dic.ksu.edu.tw/) 该站点是 Linux 管理员必看的站点之一
  - [Linux 内核之旅](http://www.kerneltravel.net/) 该站点提供了 Linux 2.6 内核的分析和经验之谈
  - [Linux内核学习和研究及嵌入式(ARM)学习和研究的开放文档](http://lli_njupt.0fees.net/) 该站点提供了 ARM 内核方面的电子书
- - [Linux 设备驱动第三版(ldd3)](https://www.gitbook.com/book/0xax/linux-insides/details) 该站点提供了 Linux 经典书籍 ldd3 的中文翻译
+ - [Linux 设备驱动第三版(ldd3)](http://oss.org.cn/kernel-book/ldd3/) 该站点提供了 Linux 经典书籍 ldd3 的中文翻译
  - [4.3 内核的中文注释](https://code.csdn.net/xiebaoyou/linux-4-3-0-comment/tree/master/) 该站点为 perfbook 翻译者谢宝友发起的 4.3 内核的中文注释项目
  - [jserv's wiki](http://wiki.csie.ncku.edu.tw/_categories) 该站点为台湾著名开源贡献者 jserv 所教授大学的 wiki，有许多关于 Linux，virtualization，ARM 等资料
 
