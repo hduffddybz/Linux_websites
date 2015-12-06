@@ -11,6 +11,8 @@
  - [Linux Cross Reference](http://lxr.free-electrons.com/) 在线的 lxr 站点
  - [Linux Doc](https://www.kernel.org/doc/) Linux doc 的在线文档
  - [osdev](http://wiki.osdev.org/Main_Page) 该站点描述了创建操作系统的相关信息,并且有丰富的社区
+ - [Linux insides](https://www.gitbook.com/book/0xax/linux-insides/details) 该站点提供了一本较为现代的关于 Linux 内核和其内部实现的电子书
+ - [LinuxMM](http://linux-mm.org/) 该站点是关于 Linux 内存管理的站点
 
 2、国内站点
  - [泰晓科技](http://www.tinylab.org/) 这个站点有许多翻译项目，并且有很多最新的 Linux 资讯 
@@ -22,6 +24,9 @@
  - [鸟哥的 Linux 私房菜](http://vbird.dic.ksu.edu.tw/) 该站点是 Linux 管理员必看的站点之一
  - [Linux 内核之旅](http://www.kerneltravel.net/) 该站点提供了 Linux 2.6 内核的分析和经验之谈
  - [Linux内核学习和研究及嵌入式(ARM)学习和研究的开放文档](http://lli_njupt.0fees.net/) 该站点提供了 ARM 内核方面的电子书
+ - [Linux 设备驱动第三版(ldd3)](https://www.gitbook.com/book/0xax/linux-insides/details) 该站点提供了 Linux 经典书籍 ldd3 的中文翻译
+ - [4.3 内核的中文注释](https://code.csdn.net/xiebaoyou/linux-4-3-0-comment/tree/master/) 该站点为 perfbook 翻译者谢宝友发起的 4.3 内核的中文注释项目
+ - [jserv's wiki](http://wiki.csie.ncku.edu.tw/_categories) 该站点为台湾著名开源贡献者 jserv 所教授大学的 wiki，有许多关于 Linux，virtualization，ARM 等资料
 
 贡献者：
 [YuanbinZhou](https://github.com/hduffddybz)
